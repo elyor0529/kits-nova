@@ -1,0 +1,24 @@
+{
+    "widget":{
+            "name": "widget.name",
+            "description": "widget.description",
+            "short_description": "widget.short_description",
+            "code": "kit_nova_0711",
+            "secret_key": "afef642019fe98f6db01bb06a18e3d67f78cb91324b4c94d63901e6bf0ab2ee7",
+            "version": "1.0.2",
+            "interface_version": 2,
+            "init_once": false,
+            "locale":["ru"],
+            "installation": true
+            },
+    "locations":[
+            "everywhere"
+            ],
+    "settings":{
+                "tag":{
+                    "name": "settings.tag",
+                    "type": "text",
+                    "required": true
+                }
+            }
+}
